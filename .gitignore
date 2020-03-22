@@ -11,6 +11,9 @@
 .idea/**/shelf
 .idea/
 
+# Anaconda
+*.ipynb
+
 # Generated files
 .idea/**/contentModel.xml
 
